@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Ali Shahidi<br>🤝 i love open source and free<br>⚡ i using linux and emacs<br>🌱 my skills:<br>--- php, laravel, tailwindcss, bootstrap, react, nodejs, api, html css, linux, and ......
+🔭 I'm Ali Shahidi<br>🤝 i love open source and free<br>⚡ i using linux and emacs<br>🌱 my skills:<br>--- php, laravel, tailwindcss, bootstrap, react, nodejs, python, django, redis, mysql,api, html css, linux, and ......
 
 
 ## 🌐 Socials:
