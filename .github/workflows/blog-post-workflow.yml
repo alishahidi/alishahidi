@@ -15,3 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://alishahidinet.ir/feed/"
+          template: "<a href='$url'>$title</a>"
