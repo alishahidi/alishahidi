@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://alishahidinet.ir/feed/"
-          template: "<br>$counter. <a href='$url'>$title</a>:<br><p>$description</p><br>"
+          template: "<div dir='rtl' style='text-align: right;'><br>$counter. <a href='$url'>$title</a>:<br><p>$description</p><br></div>"
