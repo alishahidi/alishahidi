@@ -8,8 +8,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - name: Blog Post Workflow
-              uses: gautamkrishnar/blog-post-workflow@1.8.1
+            - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
                 feed_list: "alishahidinet.ir/feed"
