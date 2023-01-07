@@ -14,6 +14,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ربات شخصی + کد منبع](https://alishahidinet.ir/article/16/ربات شخصی + کد منبع)
+- [آپدیت کانفیگ doom emacs](https://alishahidinet.ir/article/15/آپدیت کانفیگ doom emacs)
+- [اسکریپت فشرده سازی عکس با پایتون](https://alishahidinet.ir/article/13/اسکریپت فشرده سازی عکس با پایتون)
+- [متغیر های محیطی در php &lpar;ذخیره امن داده ها&rpar;](https://alishahidinet.ir/article/12/متغیر های محیطی در php (ذخیره امن داده ها))
+- [مدیریت عکس ها در php &lpar;آپلود عکس&rpar;](https://alishahidinet.ir/article/11/مدیریت عکس ها در php (آپلود عکس))
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
