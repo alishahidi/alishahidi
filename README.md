@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Shahidi</h1>
-<h3 align="center">Full Stack developer; Gnu/Linux & open source lover</h3>
+<h3 align="center">Backend developer; Gnu/Linux & open source lover</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/alishahidi](github.com/alishahidi)
 
