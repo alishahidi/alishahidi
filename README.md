@@ -1,4 +1,4 @@
-# Geeky Backend Developer
+# Passionate Full-Stack Developer | Linux Enthusiast
 I'm a highly motivated full-stack developer with a strong passion for Linux, Emacs, PHP, Laravel, Java, HTML, CSS, and React. With several years of industry experience, I excel at creating high-quality, scalable software solutions. Constantly driven by curiosity, I actively explore new technologies and programming languages to stay at the forefront of the field.
 
 Throughout my career, I've successfully contributed to various projects, gaining expertise in different programming languages and frameworks. My deep understanding of software development methodologies and best practices enables me to deliver optimal results. I'm committed to continuously improving my skills and knowledge.
